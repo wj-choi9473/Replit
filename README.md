@@ -7,7 +7,7 @@ Online IDE for coding test
 3. [Replit] Click +New repl -> import from GitHub
 
 ### How to commit using git
-1. git init # only for othe first time
+1. git init # only for the first time
 2. git add .
 3. git commit -m "commit message" 
 4. git push -u origin
